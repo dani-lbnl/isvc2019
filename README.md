@@ -7,8 +7,7 @@ Tutorial at ISVC'19 on 3D image processing
 
 ## Set your environment
 If you are using Anaconda:
-''
-conda env create -n imagesearch -f environment.yml
 
-conda activate imagesearch
-''
+`conda env create -n imagesearch -f environment.yml `
+`conda activate imagesearch `
+
